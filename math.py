@@ -1,0 +1,8 @@
+print(8+9)
+print(9-8)
+print(3*3)
+print(3**3)
+print(36/9)
+print(10/3)
+print(10//3)
+print(31%5)
